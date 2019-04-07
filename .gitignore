@@ -81,6 +81,10 @@ modules.xml
 .idea/misc.xml
 *.ipr
 
+### Sonar ###
+#Sonar generated dir
+/.sonar/
+
 # End of https://www.gitignore.io/api/webstorm+iml
 
 node_modules/**/*
